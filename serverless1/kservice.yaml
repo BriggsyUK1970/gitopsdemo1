@@ -3,7 +3,7 @@ kind: Service
 metadata:
   annotations:
     serving.knative.dev/creator: uther
-    serving.knative.dev/lastModifier: uther
+    serving.knative.dev/lastModifier: dave
   labels:
     boson.dev/function: 'true'
     boson.dev/runtime: quarkus
